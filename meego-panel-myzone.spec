@@ -8,7 +8,7 @@ Summary: Myzone panel for MeeGo
 Group: Graphical desktop/Other 
 Version: 0.2.4
 License: LGPL 2.1
-URL: http://www.meego.com
+URL: https://www.meego.com
 Release: %mkrel 1
 Source0: http://repo.meego.com/MeeGo/releases/1.1/netbook/repos/source/%{name}-%{version}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
